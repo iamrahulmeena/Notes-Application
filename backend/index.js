@@ -26,7 +26,7 @@ app.use(express.json());
 // CORS configuration
 const allowedOrigins = [
   'http://localhost:5173',
-  'mynotesapp79.netlify.app',
+  'https://mynotesapp79.netlify.app',
 ];
 
 
