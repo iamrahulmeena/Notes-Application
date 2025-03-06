@@ -26,8 +26,7 @@ app.use(express.json());
 // CORS configuration
 const allowedOrigins = [
   'http://localhost:5173',
-  'https://notes-manager-application.netlify.app',
-  'https://notes-manager-frontend-app.vercel.app',
+  'mynotesapp79.netlify.app',
 ];
 
 
